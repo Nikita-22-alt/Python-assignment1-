@@ -6,4 +6,4 @@ try:
     print("Result:", result)
 except ZeroDivisionError as e:
     print("Error:", e)
-.
+
