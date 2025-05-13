@@ -5,4 +5,5 @@ try:
     result = a / b
     print("Result:", result)
 except ZeroDivisionError as e:
-    print("Error:", e)
+    print("Error:", e
+mmm
